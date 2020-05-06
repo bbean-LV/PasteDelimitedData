@@ -1,7 +1,7 @@
 # PasteDelimitedData
-LabVIEW shortcut menu plugin for pasting delimited text or excel data
+LabVIEW shortcut menu plugin for pasting delimited text or excel data.  This branch/version will only work with LabVIEW 2019 or greater.
 
-This shortcut plugin takes any CSV or delimited data and pastes it into arrays, tables, and multi column listboxes.
+This shortcut plugin takes any CSV or delimited data and pastes it into arrays, tables, maps and multi column listboxes.
 
 For multicolumn listboxes and tables, an additional sub menu item pops up allowing the user to separate the header row from the delimited data and use it in "column headers" of the control.
 
